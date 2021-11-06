@@ -1,4 +1,4 @@
-package lesson.`2_1`
+package lesson2.lesson2_1
 
 // immutable , final
 val question = "삶, 우주, 그리고 모든 것에 대한 궁극적인 질문"
