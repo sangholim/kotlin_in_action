@@ -10,3 +10,6 @@
   - [lesson-3.1](src/lesson3/lesson3_1/lesson3.1.md)
   - [lesson-3.2](src/lesson3/lesson3_2/lesson3.2.md)
   - [lesson-3.3](src/lesson3/lesson3_3/lesson3.3.md)
+  - [lesson-3.4](src/lesson3/lesson3_4/lesson3.4.md)
+  - [lesson-3.5](src/lesson3/lesson3_5/lesson3.5.md)
+  - [lesson-3.6](src/lesson3/lesson3_6/lesson3.6.md)
