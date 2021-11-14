@@ -31,3 +31,7 @@
 - [lesson-5.3](src/lesson5/lesson5_3/lesson5.3.md)
 - [lesson-5.4](src/lesson5/lesson5_4/lesson5.4.md)
 - [lesson-5.5](src/lesson5/lesson5_5/lesson5.5.md)
+
+## Chapter6
+
+- [lesson-6.1](src/lesson5/lesson6_1/lesson6.1.md)
