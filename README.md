@@ -38,3 +38,11 @@
 - [lesson-6.2](src/lesson6/lesson6_2/lesson6.2.md)
 - [lesson-6.3](src/lesson6/lesson6_3/lesson6.3.md)
 
+## Chapter7
+
+- [lesson-7.1](src/lesson7/lesson7_1/lesson7.1.md)
+- [lesson-7.2](src/lesson7/lesson7_2/lesson7.2.md)
+- [lesson-7.3](src/lesson7/lesson7_3/lesson7.3.md)
+- [lesson-7.4](src/lesson7/lesson7_4/lesson7.4.md)
+- [lesson-7.5](src/lesson7/lesson7_5/lesson7.5.md)
+
