@@ -46,3 +46,9 @@
 - [lesson-7.4](src/lesson7/lesson7_4/lesson7.4.md)
 - [lesson-7.5](src/lesson7/lesson7_5/lesson7.5.md)
 
+## Chapter8
+
+- [lesson-8.1](src/lesson8/lesson8_1/lesson8.1.md)
+- [lesson-8.2](src/lesson8/lesson8_2/lesson8.2.md)
+- [lesson-8.3](src/lesson8/lesson8_3/lesson8.3.md)
+
